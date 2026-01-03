@@ -1,0 +1,51 @@
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea
+.idea/
+.DS_Store
+/build
+/*/build
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Log Files
+*.log
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures
+captures/
+
+# IntelliJ
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+
+# Keystore files
+*.jks
+*.keystore
+*.p12
+
+# Google Services
+google-services.json
+
+# Lint
+lint/
+
+# OS X
+.DS_Store
+
+# Generated files
+/app/build/
+/build/
+
